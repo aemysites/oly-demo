@@ -1,10 +1,11 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/oly-demo/:/",
+    "/content/oly-demo/configuration:/.helix/config.json",
+    "/content/oly-demo/metadata:/metadata.json",
+    "/content/oly-demo/tools/sidekick/library:/tools/sidekick/library.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/oly-demo/"
   ]
 }
